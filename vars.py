@@ -7,7 +7,7 @@ API_ID = int(environ.get("API_ID", "3140089"))
 API_HASH = environ.get("API_HASH", "ef67c500cfbd85b764535cf1c8c9917f")
 BOT_TOKEN = environ.get("BOT_TOKEN", "7737005857:AAGHpWJBgc9J6p7d7plxTw8SF8zIUkBe7CE")
 
-OWNER = int(environ.get("OWNER", "7531045029"))
+OWNER = int(environ.get("OWNER", "7361052650"))
 CREDIT = environ.get("CREDIT", "Prunus")
 cookies_file_path = os.getenv("cookies_file_path", "youtube_cookies.txt")
 
@@ -23,6 +23,7 @@ if int(OWNER) not in AUTH_USERS:
 api_url = "http://master-api-v3.vercel.app/"
 api_token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoiNzkxOTMzNDE5NSIsInRnX3VzZXJuYW1lIjoi4p61IFtvZmZsaW5lXSIsImlhdCI6MTczODY5MjA3N30.SXzZ1MZcvMp5sGESj0hBKSghhxJ3k1GTWoBUbivUe1I"
 # .....,.....,.......,...,.......,....., .....,.....,.......,...,.
+
 
 
 
